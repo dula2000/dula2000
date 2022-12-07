@@ -6,7 +6,9 @@
 - 🌱 I’m currently learning: Python,  and Web Development 
 - ⌨ Languages: c python java javascript HTML5 CSS 
 - 🤖 Skills: Intermediat level in Javascript  
-- 📫 How to reach me: Twitter- <a href="https://twitter.com/DeDulanja">@DeDulanja</a>
+- 📫 How to reach me:<br>
+  Twitter- <a href="https://twitter.com/DeDulanja">@DeDulanja</a><br>
+  Linkedin- <a href="https://twitter.com/DeDulanja">Dulanja De Silva</a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 8 hours sleeping and listning songs everyday
 
